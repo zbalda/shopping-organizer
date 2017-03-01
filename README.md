@@ -1,7 +1,7 @@
 ##### NOTE: See Documentation.docx for full documentation
 
 ### shopping-organizer
-A simple python program to search a database for grocery items, add those items to a grocery list, and sort those items by location in store.
+A simple python program to search a database for grocery items, add those items to a grocery list, and sort those items by their location in a store.
 
 ## Overview and Summary
 The purpose of this program is to help anyone find their way through a store (grocery store, sporting goods store, clothing store, etc.). Ideally, each store will have a database containing information about every item held at that store. Included will be information about the item name, price, section, and shelf. To help the users navigate, there will be an image diagram that maps out the sections of the store.  
